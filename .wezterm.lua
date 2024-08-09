@@ -7,7 +7,7 @@ config.window_background_opacity = 0.99
 
 config.font = wezterm.font 'Jetbrains Mono'
 
-config.color_scheme = 'Breeze'
+config.color_scheme = 'Catppuccin Mocha'
 
 config.keys = {
     {
