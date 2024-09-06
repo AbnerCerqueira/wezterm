@@ -3,7 +3,7 @@ local wezterm = require 'wezterm'
 local config = wezterm.config_builder()
 
 config.window_decorations = "RESIZE"
-config.window_background_opacity = 0.99
+config.window_background_opacity = 1
 
 config.font = wezterm.font 'Jetbrains Mono'
 
